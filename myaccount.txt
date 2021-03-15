@@ -1,0 +1,3 @@
+Student Id= 190
+Name= Moumita
+Intake= 44.00
